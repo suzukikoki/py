@@ -25,4 +25,18 @@ e = list()
 n = list(range(5))
 print(n)  #->[0,1,2,3,4] 0から5未満
 
+s = list("abcde")
+print(s)
+s = ["a", "b", "c", "d", "e"]
+print(s)
+
+t = "a textbox of Python"
+tlist = t.split()
+print(tlist)
+tlist = "a textbox of python".split()
+print(tlist)
+
+
+
+
 
