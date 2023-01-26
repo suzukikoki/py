@@ -132,6 +132,13 @@ print(age)
 print("岡田" in age)
 print("佐藤" in age)
 
+#for 
+for i in range(10):
+  if i == 1:
+    continue
+  if i== 8:
+    break
+  print(i)
 
 
 
